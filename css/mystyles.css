@@ -1,0 +1,65 @@
+.about-right-box:before
+{
+	background-color:#bb0f0f;
+
+}
+
+.section-heading > h3::after
+{
+	width: 0px;
+}
+
+body > div > section:nth-child(11) > div > div > div.col-lg-5.col-md-12.margin-30px-bottom > div > div:nth-child(1) > div > h4::after
+{
+	width: 0px;
+}
+
+body > div > section.parallax.about-area > div > div > div:nth-child(1) > div > div.section-heading.left.white > h4::after
+{
+	width: 0px;
+}
+
+body > div > section:nth-child(6) > div > div > h4::after
+{
+	width: 0px;
+}
+
+.pricing-list-button
+{
+	border:2px solid #d01350;
+	background-color: #bb0f0f;
+}
+
+body > div > section:nth-child(7) > div > div.row > div:nth-child(2) > div > div.pricing-list-button > a
+{
+	color:black ;
+}
+
+body > div > section:nth-child(7) > div > div.row > div:nth-child(2) > div > div.pricing-list-button > a:hover
+{
+	color:black ;
+}
+
+body > div > section:nth-child(7) > div > div.row > div:nth-child(2) > div > div.pricing-list-button:hover
+{
+	background-color: gray;
+}
+
+body > div > section:nth-child(7) > div > div.row > div:nth-child(1) > div > div.pricing-list-button > a:hover
+{
+	color:black;
+}
+body > div > section:nth-child(7) > div > div.row > div:nth-child(3) > div > div.pricing-list-button > a:hover
+{
+	color:black;
+}
+
+/*[Inicio] Estilos bpfs*/
+
+.navbar-default
+{
+	    background-color: #BB0F0F;
+}
+
+/*[fin] Estilos bpfs*/
+

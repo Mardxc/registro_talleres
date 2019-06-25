@@ -1,0 +1,4 @@
+.about-right-box
+{
+	background-color:red;
+}
