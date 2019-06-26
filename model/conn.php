@@ -1,7 +1,7 @@
 <?php 
 	class Connection{
 
-		public function connection(){
+		public function conn(){
 			try{
 				//$conn = new PDO('mysql:host=localhost;dbname=bpfsmx_moya','bpfsmx_toor','uvqUq!rMkwgC');
 				$conn = new PDO('mysql:host=localhost;dbname=bpfsmx_talleres','root','');
